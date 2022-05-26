@@ -1,6 +1,6 @@
 <h1 align="center">
 <br />
-NG MOVIES
+EVENT-TRACKER
 </h1>
 
 <br />
